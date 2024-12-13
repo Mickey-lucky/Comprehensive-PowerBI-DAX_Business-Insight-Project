@@ -10,10 +10,34 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 
 ## Key Steps:
 1.	Connected to MySQL database and loaded data to Power BI. Introduced 3 dimension tables (product, market, customer) and 7 fact sales tables(monthly_sales, monthly_ forecast, gross price, pre-invoice deduction, post-invoice deduction, freight cost, manufacturing cost). Imported 3 Excel fact tables (operating expense, market share and targets)
-2.	Performed data cleaning and ETL in power query 
-3.	Bulit data models (created star schema and snowflake schema diagram), calculated measures and performed data validation using Excel
-4.	Created dashboards for different departments
+2.	Performed data cleaning and ETL in power query
+  ![Data model diagram!](https://github.com/user-attachments/assets/f1064784-1674-48a4-a9e3-68e41bcca840)
+4.	Bulit data models (created star schema and snowflake schema diagram), calculated measures and performed data validation using Excel
+5.	Created dashboards for different departments
 
+
+
+## Power BI Techniques Used:
+•	Using bookmarks to toggle between two visuals
+•	Developed tooltip page to show gross margin % and net sales trend for each customer
+•	Created bridge tables in the data model for many * many relationships
+•	Created parameter (target tolerance gap) to filter customer based on their performance metrics (gross margin % VS target %)
+•	Used conditional formatting to add the icon to value (Gross margin %)to indicate its trend against the benchmark
+•	Communication with stakeholders to know their expectations and enhance the dashboard
+• Using image action to navigate pages
+• generating dynamic title based on the selected filter
+
+
+## Dax Functions Used:
+Calculate () 
+Switch()
+Divide()
+Sum() & Sumx()
+Selectedvalue()
+Variable
+Sameperiodlastyear() 
+ALL()
+If()
 
 ## Dashboards Content Highlights:
 Finance: created P&L statement and its dynamic yearly trend, tracked KPI (net sales, gross margin % and net profit %). benchmarked P&L metrics against last year /target
@@ -44,7 +68,7 @@ Supply chain: tracked KPI of net error (%), absolute error(%), sales forecast ac
 
 Executive view: Provided key insights by sub-zone and the company's yearly growth trend in market share against other main players. Analyzed revenue breakdown by product division and sales channel. Highlighted top 5 customers and top 5 products by revenue
 
-![Executive view!](https://github.com/user-attachments/assets/09a6e03e-0352-4f2d-99d8-02dd51c9c560)
+![Executive view!](https://github.com/user-attachments/assets/4d16dfaf-1ba2-4a3b-bbdc-ada5e7ec8779)
 
 
 
