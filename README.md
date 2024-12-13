@@ -27,14 +27,14 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 
 
 ## Power BI Techniques and Other Skills Used:
-•	Used bookmarks to toggle between two visuals<br />
-•	Developed a tooltip page to show gross margin % and net sales trend for each customer<br />
-•	Employed bridge tables in the data model for many * many relationships<br />
+•	Utilized bookmarks to toggle seamlessly between multiple visuals<br />
+•	Developed a tooltip page to display detailed insights, such as gross margin % and net sales trend for individual customers<br />
+•	Employed bridge tables in data model for many * many relationships<br />
 •	Created parameter (target tolerance gap) to filter customers based on their performance metrics (gross margin % VS target %)<br />
-•	Applied conditional formatting to add the icon to value (Gross margin %)to indicate its trend against the benchmark<br />
-•	Communication with stakeholders to know their expectations and enhance the dashboard<br />
-• Used image action page navigation<br />
-• Generated dynamic title based on the selected filter<br />
+•	Applied conditional formatting to add icons to value (Gross margin %), visually indicating the trend relative to the benchmark<br />
+•	Engaged with stakeholders to gather requirements, understand their expectations and continuously enhance the dashboard functionality and design.<br />
+• Used image-based navigation action for page navigation<br />
+• Developed dynamic titles that adapt based on the selected filters<br />
 
 
 ## Dax Functions Used:
