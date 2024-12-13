@@ -12,25 +12,29 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 1.	Connected to MySQL database and loaded data to Power BI. Introduced 3 dimension tables (product, market, customer) and 7 fact sales tables(monthly_sales, monthly_ forecast, gross price, pre-invoice deduction, post-invoice deduction, freight cost, manufacturing cost). Imported 3 Excel fact tables (operating expense, market share and targets)
 2.	Performed data cleaning and ETL in power query
 4.	Bulit data models (created star schema and snowflake schema diagram)
+ 
   ![Data model diagram!](https://github.com/user-attachments/assets/3002e992-206a-4a80-b356-f3c07a75e7c0)
+  
 5. Created calculated measures and performed data validation
-6. Created dashboards for different departments
+6. crafted dashboards for different departments
+7. Published reports to Power BI service and set up a personal gateway for automated data fresh
+8. managed workspace and configured access permission within Power BI service
 
 
 
 ## Power BI Techniques Used:
-•	Using bookmarks to toggle between two visuals
-•	Developed a tooltip page to show gross margin % and net sales trend for each customer
-•	Created bridge tables in the data model for many * many relationships
-•	Created parameter (target tolerance gap) to filter customer based on their performance metrics (gross margin % VS target %)
-•	Used conditional formatting to add the icon to value (Gross margin %)to indicate its trend against the benchmark
-•	Communication with stakeholders to know their expectations and enhance the dashboard
-• Using image action to navigate pages
-• generating dynamic title based on the selected filter
+•	Used bookmarks to toggle between two visuals<br />
+•	Developed a tooltip page to show gross margin % and net sales trend for each customer<br />
+•	Employed bridge tables in the data model for many * many relationships<br />
+•	Created parameter (target tolerance gap) to filter customers based on their performance metrics (gross margin % VS target %)<br />
+•	Applied conditional formatting to add the icon to value (Gross margin %)to indicate its trend against the benchmark<br />
+•	Communication with stakeholders to know their expectations and enhance the dashboard<br />
+• Used image action page navigation<br />
+• Generated dynamic title based on the selected filter<br />
 
 
 ## Dax Functions Used:
-Calculate, Switch, Divide, Sum & Sum, Selectedvalue, Variable, Sameperiodlastyear, ALL, If
+Calculate, Switch, Divide, Sum & Sum, Selectedvalue, Variable, Sameperiodlastyear, ALL, Allnoblankrow, If
 
 ## Dashboards Content Highlights:
 Finance: created P&L statement and its dynamic yearly trend, tracked KPI (net sales, gross margin % and net profit %). benchmarked P&L metrics against last year /target
