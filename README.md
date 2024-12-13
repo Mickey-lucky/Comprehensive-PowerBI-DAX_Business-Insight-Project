@@ -18,7 +18,7 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 ## Dashboards Content Highlights:
 Finance: created P&L statement and its dynamic yearly trend, tracked KPI (net sales, gross margin % and net profit %). benchmarked P&L metrics against last year /target
 
-![finance view!](https://github.com/user-attachments/assets/b8f53bf5-1d13-4c65-ab0d-c21f12ec2a32)
+![finance view!](https://github.com/user-attachments/assets/38581579-9d33-4d57-b33f-6d07459bb11c)
 
 
 
