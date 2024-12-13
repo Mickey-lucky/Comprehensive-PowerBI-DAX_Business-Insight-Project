@@ -32,19 +32,17 @@ Sales: created key metrics (net sales, gross margin(%), and quantity) for custom
 
 
 Marketing: built net sales, gross margin(%), and net profit(%) across regions/markets and products. Examined operation expense and net profit in general
-Supply chain: tracked KPI of net error (%), absolute error(%), sales forecast accuracy %, and yearly trend. Benchmarked forecast accuracy against last year's performance across customers and products
-Executive view: Provided key insights by sub-zone and the company's yearly growth trend in market share. Analyzed revenue breakdown by product division and sales channel. Examined the PC market share  of the company against main players. Highlighted top 5 customers and top 5 products by revenue
 
 ![Marketing view!](https://github.com/user-attachments/assets/b8f53bf5-1d13-4c65-ab0d-c21f12ec2a32)
 
 
 
 Supply chain: tracked KPI of net error (%), absolute error(%), sales forecast accuracy % and yearly trend. Benchmarked forecast accuracy against last year's performance across customers and products
-![Supply chain view!](https://github.com/user-attachments/assets/b8f53bf5-1d13-4c65-ab0d-c21f12ec2a32)
+
+![Supply chain view!](https://github.com/user-attachments/assets/fcd9f4e4-6b4d-4014-96d3-641c95c191f2)
 
 
-Executive view: Provided key insights by sub-zone and the company's yearly growth trend in market share. Analyzed revenue breakdown by product division and sales channel. Examined the PC market share  of the company against main players. Highlighted top 5 customers and top 5 products by revenue
-
+Executive view: Provided key insights by sub-zone and the company's yearly growth trend in market share against other main players. Analyzed revenue breakdown by product division and sales channel. Highlighted top 5 customers and top 5 products by revenue
 
 ![Executive view!](https://github.com/user-attachments/assets/09a6e03e-0352-4f2d-99d8-02dd51c9c560)
 
