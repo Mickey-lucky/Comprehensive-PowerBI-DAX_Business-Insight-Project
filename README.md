@@ -24,7 +24,7 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 
 
 
-## Power BI Techniques Used:
+## Power BI Techniques and Other Skills Used:
 •	Used bookmarks to toggle between two visuals<br />
 •	Developed a tooltip page to show gross margin % and net sales trend for each customer<br />
 •	Employed bridge tables in the data model for many * many relationships<br />
