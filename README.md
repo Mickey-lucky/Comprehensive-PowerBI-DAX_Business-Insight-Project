@@ -2,7 +2,7 @@
 
 
 ## Introduction 
-Project Overview: The project delved into datasets of a consumer products company that supplies various computer hardware categories to e-commerce and brick-and-mortar customers across multiple countries and regions. The dashboard explored sales data from over 1 million records and extracted insights from multi-faceted dimensions, such as finance, marketing, sales, supply chain, etc. The dashboard included multiple filter slicers, region/market, product segment/category, customers and multiple years (2019 to 2022). The two benchmark criteria for KPI are ‘VS last year’ and ‘VS target’. [Project live report](https://app.powerbi.com/view?r=eyJrIjoiMjI3YjJiMTMtNzRhMS00YjA5LTg5OGEtMzAzMDIwODk4OWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=19ff2deda902a8b9e25e)
+Project Overview: The project delved into datasets of a consumer products company that supplies various computer hardware categories to e-commerce and brick-and-mortar customers across multiple countries and regions. The dashboard explored sales data from over 1 million records and extracted insights from multi-faceted dimensions, such as finance, marketing, sales, supply chain, etc. The dashboard included multiple filter slicers, region/market, product segment/category, customers and multiple years (2019 to 2022). The two benchmark criteria for KPI are ‘VS last year’ and ‘VS target’. [Project live report](https://app.powerbi.com/view?r=eyJrIjoiOTg5ZWVhNWMtZjU3Ny00ODk4LTk3MWYtNjcyNGZiZjIwZmE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=19ff2deda902a8b9e25e)
 
 
 
@@ -18,7 +18,7 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
   ![Data model diagram!](https://github.com/user-attachments/assets/3002e992-206a-4a80-b356-f3c07a75e7c0)
   
 5. Created calculated measures and performed data validation<br />
-    ![Key measures!](https://github.com/user-attachments/assets/4e532629-c977-45f4-9423-1f8dd93277e9)
+  ![Key measures!](https://github.com/user-attachments/assets/4e532629-c977-45f4-9423-1f8dd93277e9)
    
 6. crafted dashboards for different departments
 7. Published reports to Power BI service and set up a personal gateway for automated data fresh
