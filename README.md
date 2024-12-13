@@ -1,7 +1,7 @@
 # Electronic Consumer Goods Business Insight Dashboard
 
 ## Introduction 
-Project Overview: The project delved into datasets of a hardware company that supplies various computer hardware categories to e-commerce and brick-and-mortar customers across multiple countries and regions. The dashboard explored sales data from over 1 million records and extracted insights from multi-faceted dimensions, such as finance, marketing, sales, supply chain, etc. The dashboard included multiple filter slicers, region/market, product segment/category, customers and multiple years (2019 to 2022). The two benchmark criteria for KPI are ‘VS last year’ and ‘VS target’.
+Project Overview: The project delved into datasets of a consumer products company that supplies various computer hardware categories to e-commerce and brick-and-mortar customers across multiple countries and regions. The dashboard explored sales data from over 1 million records and extracted insights from multi-faceted dimensions, such as finance, marketing, sales, supply chain, etc. The dashboard included multiple filter slicers, region/market, product segment/category, customers and multiple years (2019 to 2022). The two benchmark criteria for KPI are ‘VS last year’ and ‘VS target’.
 
 
 ## Tools & Platform 
@@ -15,10 +15,12 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
  
   ![Data model diagram!](https://github.com/user-attachments/assets/3002e992-206a-4a80-b356-f3c07a75e7c0)
   
-5. Created calculated measures and performed data validation
+5. Created calculated measures and performed data validation<br />
+    ![Key measures!](https://github.com/user-attachments/assets/4e532629-c977-45f4-9423-1f8dd93277e9)
+   
 6. crafted dashboards for different departments
 7. Published reports to Power BI service and set up a personal gateway for automated data fresh
-8. managed workspace and configured access permission within Power BI service
+8. Managed workspace and configured access permission within Power BI service
 
 
 
