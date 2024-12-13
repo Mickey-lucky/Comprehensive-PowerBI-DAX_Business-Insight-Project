@@ -35,7 +35,7 @@ Marketing: built net sales, gross margin(%), and net profit(%) across regions/ma
 Supply chain: tracked KPI of net error (%), absolute error(%), sales forecast accuracy %, and yearly trend. Benchmarked forecast accuracy against last year's performance across customers and products
 Executive view: Provided key insights by sub-zone and the company's yearly growth trend in market share. Analyzed revenue breakdown by product division and sales channel. Examined the PC market share  of the company against main players. Highlighted top 5 customers and top 5 products by revenue
 
-![Sales view!](https://github.com/user-attachments/assets/b8f53bf5-1d13-4c65-ab0d-c21f12ec2a32)
+![Marketing view!](https://github.com/user-attachments/assets/b8f53bf5-1d13-4c65-ab0d-c21f12ec2a32)
 
 
 
@@ -47,7 +47,7 @@ Executive view: Provided key insights by sub-zone and the company's yearly growt
 
 
 
-
+![Executive view!](https://github.com/user-attachments/assets/09a6e03e-0352-4f2d-99d8-02dd51c9c560)
 
 
 
