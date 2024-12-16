@@ -40,7 +40,7 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 ## Dax Functions Used:
 Calculate, Switch, Divide, Sum & Sum, Selectedvalue, Variable, Sameperiodlastyear, ALL, Allnoblankrow, If
 
-## Dashboards Content Highlights:
+## Dashboards:
 Finance: created P&L statement and its dynamic yearly trend, tracked KPI (net sales, gross margin % and net profit %). benchmarked P&L metrics against last year /target
 
 ![finance view!](https://github.com/user-attachments/assets/f1064784-1674-48a4-a9e3-68e41bcca840)
