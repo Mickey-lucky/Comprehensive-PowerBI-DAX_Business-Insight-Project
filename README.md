@@ -1,4 +1,4 @@
-# Electronic Device Business Insight Dashboard
+# Computer Hardware Business Insight Dashboard
 
 
 ## Introduction 
