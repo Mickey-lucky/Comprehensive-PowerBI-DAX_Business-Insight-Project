@@ -60,7 +60,7 @@ Sales: created key metrics (net sales, gross margin(%), and quantity) for custom
 
 Marketing: built net sales, gross margin(%), and net profit(%) across regions/markets and products. Examined operation expense and net profit in general
 
-![Marketing view!](https://github.com/user-attachments/assets/b8f53bf5-1d13-4c65-ab0d-c21f12ec2a32)
+![Marketing view!](https://github.com/user-attachments/assets/19cc0eb3-e864-4cee-b492-55813f995862)
 
 
 
