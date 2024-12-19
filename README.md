@@ -16,8 +16,12 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 4.	Bulit data models (created star schema and snowflake schema diagram)
  
   ![Data model diagram!](https://github.com/user-attachments/assets/3002e992-206a-4a80-b356-f3c07a75e7c0)
+
+
   
+  ![Data model diagram!](https://github.com/user-attachments/assets/7040a407-32af-428f-8581-f12bdd6e9256)<br />
 5. Created calculated measures and performed data validation<br />
+
   ![Key measures!](https://github.com/user-attachments/assets/4e532629-c977-45f4-9423-1f8dd93277e9)
    
 6. crafted dashboards for different departments
