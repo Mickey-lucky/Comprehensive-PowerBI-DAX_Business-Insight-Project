@@ -31,7 +31,7 @@ Power BI Desktop, MySQL, Dax Language, Power Query, Dax Studio (for optimizing t
 
 
 ## Power BI Techniques and Knowledge Used:
-• Data Modelling involving + 10 tables
+• Data Modelling involving + 10 tables<br />
 •	Utilized bookmarks to toggle seamlessly between multiple visuals<br />
 •	Developed a tooltip page to display detailed insights, such as gross margin % and net sales trend for customers<br />
 •	Employed bridge tables in data model for many * many relationships<br />
